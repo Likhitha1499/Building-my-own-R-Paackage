@@ -1,4 +1,4 @@
-# Building-my-own-R-Paackage
+# Building-my-own-R-Package
 Package: Likhitha
 Title: Hello world
 Version: 0.1.0
