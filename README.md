@@ -1,12 +1,11 @@
 # Building-my-own-R-Paackage
 Package: Likhitha
-Type: Package
-Title: What the Package Does (Title Case)
+Title: Hello world
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Likhitha Pingali
+Maintainer: Likhitha Pingali Likhitha.Pingali@somewhere.net>
+Description: This package povides a function that prints a message "`Hello world!" to the console. It's a simple package designed for educational purpose.
+Depends: R (>= 3.1.2)
+License: CC0
 Encoding: UTF-8
 LazyData: true
